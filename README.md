@@ -54,14 +54,14 @@ Ant Colony Optimization (ACO):
 - Analysis: NumPy, Matplotlib, Pandas
 
 
-
+<a name="-français"></a>
 <details>
 <summary><b>Cliquez ici pour lire en Français</b></summary>
 
 [![Français](https://img.shields.io/badge/lang-fr-blue)](#-français)
 [![English](https://img.shields.io/badge/lang-en-red)](#english)
 
-<a name="-français"></a>
+
 # Dynamic-TDTSP : Optimisation Métaheuristique pour Réseaux Imprévisibles
 
 ## Aperçu du Projet
