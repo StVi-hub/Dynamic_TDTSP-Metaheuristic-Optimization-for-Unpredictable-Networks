@@ -26,7 +26,7 @@ The problem is modeled as a graph $G = (V, A)$ where the cost function $c_{i,j}(
 
 Minimize the total arrival time at the final destination:
 
-$$\min Z = \sum_{(i,j) \in A} \sum_{t \in T} c_{i,j}(t) \cdot x_{i,j,t}$$
+$$\min \sum_{k} \sum_{i,j} C_{ij}^{k} \, X_{ij}^{k}$$
 
 ## Implementation & Algorithms
 
@@ -61,7 +61,7 @@ Ant Colony Optimization (ACO):
 [![Français](https://img.shields.io/badge/lang-fr-blue)](#-français)
 [![English](https://img.shields.io/badge/lang-en-red)](#english)
 
-
+<a name="-français"></a>
 # Dynamic-TDTSP : Optimisation Métaheuristique pour Réseaux Imprévisibles
 
 ## Aperçu du Projet
@@ -90,7 +90,7 @@ Le problème est modélisé comme un graphe $G = (V, A)$ où la fonction de coû
 
 Minimiser l'heure d'arrivée totale à la destination finale :
 
-$$\min Z = \sum_{(i,j) \in A} \sum_{t \in T} c_{i,j}(t) \cdot x_{i,j,t}$$
+$$\min \sum_{k} \sum_{i,j} C_{ij}^{k} \, X_{ij}^{k}$$
 
 ## Implémentation & Algorithmes
 
