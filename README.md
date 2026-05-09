@@ -56,7 +56,7 @@ Ant Colony Optimization (ACO):
 
 <a name="-français"></a>
 <details>
-<summary><b>Cliquez ici pour lire en Français</b></summary>
+<summary><h3><b>Cliquez ici pour lire en Français</b></h3></summary>
 
 [![Français](https://img.shields.io/badge/lang-fr-blue)](#-français)
 [![English](https://img.shields.io/badge/lang-en-red)](#english)
