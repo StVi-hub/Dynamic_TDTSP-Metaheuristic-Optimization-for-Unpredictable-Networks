@@ -1,3 +1,6 @@
+[![English](https://img.shields.io/badge/lang-en-red)](README.md)
+[![Français](https://img.shields.io/badge/lang-fr-blue)](README_fr.md)
+
 Dynamic-TDTSP : Optimisation Métaheuristique pour Réseaux Imprévisibles
 
 Aperçu du Projet
